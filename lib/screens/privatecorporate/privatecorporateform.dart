@@ -157,7 +157,7 @@ class _PrivateCorporateFormState extends State<PrivateCorporateForm> {
       text: TextSpan(
           text: 'Fill',
           style: GoogleFonts.portLligatSans(
-            textStyle: Theme.of(context).textTheme.display1,
+            textStyle: Theme.of(context).textTheme.bodyText1,
             fontSize: 20.0.sp,
             fontWeight: FontWeight.w700,
             color: kPrimaryLightColor,

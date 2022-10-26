@@ -89,7 +89,7 @@ class _NewTaskState extends State<NewTask> {
       text: TextSpan(
           text: 'Fill',
           style: GoogleFonts.portLligatSans(
-            textStyle: Theme.of(context).textTheme.display1,
+            textStyle: Theme.of(context).textTheme.bodyText1,
             fontSize: 15.0.sp,
             fontWeight: FontWeight.w700,
             color: kPrimaryLightColor,
